@@ -1,6 +1,4 @@
 # exe2ps1
-a small python script that converts any exe file to ps1 file
-
 A small script that converts any .exe file you want to javascript (.ps1) file.
 
 Run the Python file and enter the path to the .exe file. This will save the encrypted base64 data to the output_base64.txt file.
